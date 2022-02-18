@@ -42,7 +42,7 @@
 					</div>
 					<h1>Посвідчення №1763</h1>
 					<div class="photo">
-						<img src="img/shtamp.png" alt="">
+						<img src="photo.jpg" alt="">
 						<div class="seal">
 							<img src="img/shtamp.png" alt="">
 						</div>

@@ -99,8 +99,7 @@
 								</div>
 								<div class="msg-item">
 									<div class="msg-item-title">День Народження</div>
-									<div class="msg-item-text">Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-										Sapiente, nihil.</div>
+									<div class="msg-item-text">Ось і пздц! Прийшов той день який офіційно наблизив тебе до 30-ти, а там сивина на волоссі, зменшення волосся, дискомфорт в суглобах, потім  криза 40-ка, відсутність волосся, дзеркальна хвороба, лінь, і т.д. Але не варто на цьому ставити "х". З перевагами МС, ти на 50% забезпечений, тому живи спокійно, весело, щасливо і  насолоджуйся життям.</div>
 									<div class="msg-item-answer">
 										<button type="button">Відповісти</button>
 									</div>
